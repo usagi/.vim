@@ -1,7 +1,7 @@
 ### restore
 
 1. `cd ~`
-2. `git clone {this-repos} .vim`
+2. `git clone --recursive git@github.com:usagi/.vim.git`
 3. `ln -s .vim/.vimrc`
 
 ### license
